@@ -1,7 +1,7 @@
 OVERVIEW
 --------
 This directory contains serverconf, various configuration files for Zeppe-Lin
-localnet server.
+local server infrastructure.
 
 
 LICENSE
